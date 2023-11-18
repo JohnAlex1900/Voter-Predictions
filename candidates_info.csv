@@ -1,0 +1,28 @@
+UserID,Candidate_Support,handle,name,sex,born,announcement,party,city of residence,state of residence,children
+101,0,@sethmoulton,Seth Moulton,m,24-Oct-78,"April 22, 2019",D,Salem,MA,1
+215,0,@SenGillibrand,Kirsten Gillibrand,f,9-Dec-66,15-Jan-19,D,New York,NY,2
+303,1,@Hickenlooper,John Hickenlooper,m,7-Feb-52,4-Mar-19,D,Denver,CO,1
+404,1,@JohnDelaney,John Delaney,m,"April 16, 1963",10-Aug-17,D,Chevy Chase,MD,4
+521,0,@KamalaHarris,Kamala Harris,f,20-Oct-64,21-Jan-19,D,San Francisco,CA,0
+609,1,@JoeBiden,Joe Biden,m,20-Nov-42,"April 25, 2019",D,Wilmington,DE,4
+712,0,@TimRyan,Tim Ryan,m,16-Jul-73,"April 4, 2019",D,Howland,OH,1
+825,0,@ewarren,Elizabeth Warren,f,22-Jun-49,9-Feb-19,D,Cambridge,MA,2
+926,1,@realDonaldTrump,Donald Trump,m,14-Jun-46,,R,New York,NY,5
+104,1,@JulianCastro,Julian Castro,m,16-Sep-74,12-Jan-19,D,San Antonio,TX,2
+209,0,@BilldeBlasio,Bill de Blasio,m,8-May-61,16-May-19,D,New York,NY,2
+305,1,@marwilliamson,Marianne Williamson,f,8-Jul-52,28-Jan-19,D,Houston ,TX,1
+427,0,@BernieSanders,Bernie Sanders,m,8-Sep-41,19-Feb-19,D,Vermont,VT,4
+598,0,@CoryBooker,Cory Booker,m,"April 27, 1969",1-Feb-19,D,Newark,NJ,0
+712,0,@mike_pence,Mike Pence,m,7-Jun-59,,R,Columbus,IN,3
+825,1,@AndrewYang,Andrew Yang,m,13-Jan-75,6-Nov-17,D,New York,NY,2
+943,1,@ericswalwell,Eric Swalwell,m,16-Nov-80,"April 8, 2019",D,Pleasanton,CA,2
+158,1,@MikeGravel,Mike Gravel,m,13-May-30,"April 2, 2019",D,Burlingame,CA,2
+101,1,@JayInslee,Jay Inslee,m,9-Feb-51,1-Mar-19,D,Olympia,WA,3
+215,1,@GovernorBullock,Steve Bullock,m,"April 11, 1966",14-May-19,D,Helena,MT,3
+303,0,@MichaelBennet,Michael Bennet,m,28-Nov-64,2-May-19,D,Denver ,CO,3
+405,1,@BetoORourke,Beto O'Rourke,m,26-Sep-72,14-Mar-19,D,El Paso,TX,3
+518,0,@PeteButtigieg,Pete Buttigieg,m,19-Jan-82,23-Jan-19,D,South Bend,IN,0
+625,0,@TulsiGabbard,Tulsi Gabbard,f,"April 12, 1981",11-Jan-19,D,Honoluly,HI,0
+711,0,@amyklobuchar,Amy Klobuchar,f,25-May-60,10-Feb-19,D,Minneapolis,MN,1
+802,1,@WayneMessam,Wayne Messam,m,7-Jun-74,13-Mar-19,D,Miramar,FL,3
+903,1,@GovBillWeld,Bill Weld,m,31-Jul-45,"April 15, 2019",R,New York,NY,5
